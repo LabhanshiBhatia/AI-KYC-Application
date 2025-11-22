@@ -20,7 +20,7 @@ const formSchema = z.object({
   }),
   phone: z
     .string()
-    .length(13, { message: "Phone number must be 13 characters." }),
+    .length(10, { message: "Phone number must be 10 characters." }),
   dob: z
     .string()
     .regex(/^\d{2}-\d{2}-\d{4}$/, {

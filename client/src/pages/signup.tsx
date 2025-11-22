@@ -19,7 +19,7 @@ const formSchema = z.object({
   }),
   phone: z
     .string()
-    .length(13, { message: "Phone number must be 13 characters." }),
+    .length(10, { message: "Phone number must be 10 characters." }),
 });
 
 export default function SignUpForm() {
