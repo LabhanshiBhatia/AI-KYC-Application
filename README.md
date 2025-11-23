@@ -109,15 +109,6 @@ Instructions on setting up and running the project locally.
 
 ---
 
-## Live Demo and Submission Links
-
-| Item | Status | Link |
-| :--- | :--- | :--- |
-| **Code Repository** | Active | `https://github.com/LabhanshiBhatia/AI-KYC-Application` |
-| **Live Prototype Demo**| **[To be Inserted]** | **[Link to YouTube, Vimeo, or Google Drive Video]** |
-| **Round 2 Submission PDF**| **[Pending]** | *(Link to the final submitted document)* |
-
----
 
 ## Team Members
 
