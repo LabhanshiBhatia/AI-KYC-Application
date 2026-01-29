@@ -110,13 +110,3 @@ Instructions on setting up and running the project locally.
 ---
 
 
-## Team Members
-
-| Name | Role |
-| :--- | :--- |
-| **Labhanshi Bhatia** | **ML and Backend Developer** |
-| **Lavanya Yadav** | **Full Stack Developer** |
-| **KM Yogita** | **ML and Backend Developer** |
-| **Kanika** | **Full Stack Developer** |
-
----
